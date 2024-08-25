@@ -1,1 +1,1 @@
-# FileOrganizer
+Created a dynamic file organizer using HTML, CSS, and JavaScript that categorizes files such as XLSX and PDF into designated folders. Streamlined file management by automating the organization of various file types, improving efficiency for users handling large data sets.
